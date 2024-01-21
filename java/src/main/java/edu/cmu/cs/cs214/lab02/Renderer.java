@@ -1,8 +1,9 @@
 package edu.cmu.cs.cs214.lab02;
 
-import edu.cmu.cs.cs214.lab02.shapes.*;
+import edu.cmu.cs.cs214.lab02.shapes.Shape;
 
 public class Renderer {
+    // Slide 2 P36
     private Shape shape;
 
     Renderer(Shape shape) {
